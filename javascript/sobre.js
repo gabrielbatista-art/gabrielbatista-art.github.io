@@ -255,7 +255,7 @@ function renderView (section) {
                                 Me formei em Design pela Universidade Federal De Alagoas em 2018. Trabalho como ilustrador freelancer desde então, já tendo produzido peças para diversos meios como: Animação, moda, jogos, livros entre outros.<br><br>
                                 Entre em contato comigo pelas redes sociais ou pelo meu e-mail:
                             </p>
-                            <p>poxerilustra@gmail.com</p>
+                            <p>mugiartista@gmail.com</p>
                         </div>
                     </div>
                     <div class> </div>
